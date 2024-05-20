@@ -1,0 +1,7 @@
+{
+  "name": "app2ppa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
